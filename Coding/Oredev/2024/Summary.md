@@ -1,0 +1,125 @@
+# Topic:
+CONNECT THE DOTS: During Øredev 2024, we invited all attendees and speakers to break free from silos and collectively shape the future of impactful and responsible technology with our theme: Connect the Dots! To truly understand and navigate the complexities of technology and its consequences, one must consider and connect all the diverse components and perspectives involved.
+
+src: https://www.youtube.com/playlist?list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b
+
+# Talks
+
+[] Corin Ism - The era of the virtual world builder [Keynote]
+- [] Kent Beck & Beth Andres-Beck - We're Good At Writing Software [Keynote]
+- [] Violet Whitney & William Martin - Spatial UX & Spatial AI [Keynote]
+- [] Laura Herman - Creation as Curation [Keynote]
+- [] Ingrid af Sandeberg - AI, truth, and the new information environment [Keynote]
+- [] WomenInTech Alliance Panel: AI Society movement in South of Sweden
+- [] Erik Ejlskov Jensen - EF Core database model first - take it to the next level with Power Tools CLI
+- [] Tore Nestenius - Demystifying authentication in ASP.NET Core
+- [] Sara Bergman - Architecting for a Greener Future
+- [] Jonah Andersson - Developing .NET Apps using Azure Developer CLI (azd)
+- [] Marijn Huizendveld - Practical Strategy: How to relate your OKRs to your technical real-estate
+- [] Emil Kvarnhammar - Harnessing LLMs for Next-Level Security Analysis
+- [] Ghida Ibrahim - Towards a business driven data architecture
+- [] Lorraine Williams - Call to Connection: Cultivating Quality Relationships with Diverse Personalities
+- [] Simon Painter - Thinking Functionally with C#
+- [] Mattias Karlsson - DevOpsDocs: Transforming Tediousness into Joy
+- [] Timo Salm - Going Serverless With Spring’s Support for GraalVM, Project CraC & More
+- [] Todd Sharp - Add Live Streaming to Your Application (Without Being a Video Expert!)
+- [] Rob Richardson - .NET Testing Best Practices
+- [] Viktor Klang - Java Language update
+- [] Jesper Eskilson - Maintaining highly distributed services with Erlang: 20y experiences in fintech
+- [] Christoph Menzel - Safely through the dependency minefield using OWASP Dependency Track
+- [] Johan Hille Bringsdal - Best Practices and Optimization with the Spark Engine
+- [] Matthew Bolanos - AI app 101: Starting from scratch with Semantic Kernel
+- [] Christian Woerz - A Deep Dive into Advanced TypeScript: A Live Coding Expedition
+- [] Michael Kutz - Untangle Your Spaghetti Test Code
+- [] Milena F - Human Learning
+- [] Richard Bradshaw - TRIM Your Automated Tests
+- [] Kim Berg - Productionize Machine Learning on Azure
+- [] Johannes Bechberger & Mohammed Aboullaite - Write your own Firewall with Java & eBPF
+- [] Niels Stubbe - Refactoring your legacy applications the right way
+- [] Anna Borg - In the future: What are designers roles in a digital product organisation
+- [] Håkan Forss - Mastering Trade-offs for Scaled Agile Success
+- [] Matthew Bolanos - Unleash the power of AI: Automate tasks with OpenAI and Semantic Kernel
+- [] David Anderson - How to Wardley Map your technology strategy
+- [] Melinda Seckington - Refactor Yourself!
+- [] Anuradha Kumari - Unleashing the Power of Developer Tools for Web Accessibility Testing
+- [] Rafał Legiędź - Immersive Well-Being
+- [] Jimmy Engström - Connecting Gadgets to Blazor: Bluetooth, WebHID, and Beyond
+- [] Juulia Suvilehto - AI in healthcare - what is hype and what is real?
+- [] Oscar Arnflo - Webauthn; Don’t do it wrong when doing it right
+- [] Adam Tornhill - Accelerate Code Quality in the AI Age
+- [] Matthias Haeussler - Distributed applications and Kubernetes: Frameworks or service meshes or both
+- [] Maddy Montaquila - Hybrid Web and Desktop apps with .NET MAUI and Blazor
+- [] Grishma Jena - Bridging bytes and behavior with Data Science and UX Research
+- [] Anton Stöckl - Unraveling the Threads: Event-Sourcing, CQRS, and Event-Driven Architecture
+- [] Martin Thwaites - What is this OpenTelemetry thing?
+- [] Teresa wu - Building amazing Front-End Project with Gemma: A State-of-the-Art Open Model
+- [] Serg Masís - QA for ML: How we can trust AI with Food Sustainability
+- [] Antoine Pitrou - Apache Parquet : the standard, efficient file format for tabular data
+- [] Joel Tosi - Blending Product Thinking with Architecture
+- [] Johannes Foufas - There is no Dana only Zuul
+- [] Sonja Rattay - So you want to develop ethical AI. What does that mean in practice?
+- [] Lars Wikman - Iterate fast on hardware with Nerves
+- [] Gitte Ottosen - Unlocking Agile Potential: The Role of Quality Coaches
+- [] Linda Pimmeshofer - Productivity in the age of AI
+- [] Andreas Garnæs - Custom data structures in managed Postgres using WASM
+- [] Marijn Huizendveld - Guiding teams, and shaping a portfolio using Wardley maps & DDD
+- [] Violet Whitney & William Martin - "Natural Interfaces" and "Natural Language Programming"
+- [] Isabel Evans - So you think a new tool will help? Here are some things to remember
+- [] Jesper Olsen - SecDevSecOpsSec
+- [] Johan Åhlén - Data Mesh, Data Fabric and DataOps; what should you choose?
+- [] Nora Bodin - Secure code from start; a journey through security training for developers
+- [] Espen Sande-Larsen - How hacking works; Web edition
+- [] Federico Fregosi - How to protect your software project from supply chain security threats
+- [] Grace Jansen - Cloud-Native Dev Tools: Bringing the cloud back to earth
+- [] Martin Mazur - Facilitate You! Use your facilitating skills to lead yourself
+- [] Álvaro Sánchez-Mariscal - Testcontainers made easy
+- [] Zoe Steinkamp - Columnar Storage: Redefining Data Management for the Modern Era
+- [] Niall Merrigan - Optimistic Security
+- [] Gunnar Cedersund - Have a digital twin of yourself follow you through life
+- [] Matt Topol - Embrace the chaos: Composable data systems with fewer asterisks
+- [] Mark Rendle - How JavaScript Happened: A Short History of Programming Languages
+- [] Laura Nolan - Software Operations and Human Cognition
+- [] Joakim von Prónay - Get the elephant off the road!
+- [] Kris Buytaert - o11y will not fix your broken monitoring
+- [] Dennis Doomen - Using Boundary-Driven Development to beat code complexity
+- [] Matt Topol - ODBC takes an Arrow to the knee: ADBC
+- [] Taylor Troesh - How to Flatpack Programs
+- [] Naseer Ali - Efficiency of Serverless Architectures with AWS Solutions
+- [] Håkan Silfvernagel - How to enhance your own AI services using Semantic Kernel
+- [] Maddy Montaquila - .NET All the Things - Cloud, Mobile, Web, and more!
+- [] Oliver Sturm - Clean Microservices Communications with CQRS and Event Sourcing
+- [] Martin Mazur - Coder, Coach, Catalyst - using questions to make people grow
+- [] Shahab Ganji - Building Event-Driven Systems at Scale with Cosmos DB
+- [] Mohammed Aboullaite - Continuous Profiling, the missing piece in your observability puzzle!
+- [] Marcus Bladh - Breaking limbs and systems: A black belt story on learning
+- [] Jimmy Engström - Blazor in .NET 8: Mastering the New Render Modes and Building Interactive Web Apps
+- [] Ali Rohafza - How Makers can use Scent Detection to Solve World Problems
+- [] Benjamin Koltermann - Fuzzing and Testing the Security of Kubernetes Admission Controllers
+- [] Camilo Tapia - How to switch from cozy NodeJS to scary Rust as a company.
+- [] Matthias Haeussler - A hitchhikers guide to observe (Java) applications in Kubernetes
+- [] Mihaela-Roxana Ghidersa - The (too) many faces of architecture
+- [] Sven Jungmann - Teaching Machines How to Smell Disease — Lessons Learned
+- [] Filip Ekberg - Let’s catch up with C#! Exciting new features in C# 9, 10, 11, 12 and 13!
+- [] Mikael Brevik - Avoiding code spaghetti by making ravioli
+- [] Niclas Kjellin - Breaking the Next Factor - Evil will pwn you LIVE tonight
+- [] Vasco Duarte - What if? Simulation in portfolio management and replacing estimation as risk strategy
+- [] Serg Masis - Beyond Code: The Essential AI Skillsets for Development Teams
+- [] Emilie Lundblad - Deploy large language models responsibly with Azure AI
+- [] Matthias Niehoff - Can Data & ML really learn from software engineering?
+- [] Teresa wu - DevOps for Frontend
+- [] Laura Nolan - Site Reliability Engineering as Systems Thinking
+- [] Clare Sudbery - Compassionate Refactoring
+- [] Olena Borzenko - Innovate with Cosmos DB, Semantic Kernel & AI
+- [] Holly Cummins - Less waste, more joy, and a lot more green: How Quarkus makes Java better
+- [] Simon Painter - "Would YOU Survive the Titanic?", with ML and .NET
+- [] Lujia Huang - Applications of Graph in Fraud Detection
+- [] Eiti Kimura & Bartosz Dybała - Architectural design patterns applied to Distributed Systems
+- [] Svante Richter - PostgreSQL is (probably) all you need
+- [] Paul Griffin - How to Build an Elite Cybersecurity Team
+- [] Anton Bjöörn - Tracking the Dots in Orbit
+- [] Federico Fregosi - The Reality of Porting Kubernetes Apps Across Cloud Providers
+- [] Saravanan K Nagarajan - Sustainable IT : Connect the Dots to a Greener Future
+- [] Gitte Klitgaard & Jakob Wolman - Autonomous teams require great managers
+- [] Mark Rendle - High Performance .NET
+- [] Grace Jansen - Becoming a cloud-native doctor
+- [] Daniel Raniz Raneland - Pipeline Patterns and Antipatterns - Things your Pipeline Should (Not) Do
