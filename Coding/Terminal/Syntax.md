@@ -123,3 +123,28 @@ This function creates a file with a timestamp. If you provide a name, it uses it
     # Usage:
     # mktempfile data    -> creates data_1733659565.txt
     # mktempfile         -> creates log_1733659565.txt
+
+
+## 5. ↩️ Return in Zsh Functions
+
+### Exit Status (The Integer) 
+The `return` keyword only sends back a status code (0-255).
+- `return 0`: Success *
+- `return 1+`: Error 
+-  Access via: `$?`
+
+
+###  Returning Data (The String) 
+To send text or data back to the caller, use `echo` inside the function and capture it with `$()`. 
+
+    get_name() {
+        echo "Fortnox-Project"
+    }
+    result=$(get_name)
+
+### Comparison Table 
+| Feature | `return` | `echo` + `$( )` | 
+| :--- | :--- | :--- | 
+| **Purpose** | Success/Failure signal | Passing actual data | 
+| **Data Type** | Integer (0-255) | String / Text | 
+| **Usage** | `if my_func; then` | `var=$(my_func)` |
