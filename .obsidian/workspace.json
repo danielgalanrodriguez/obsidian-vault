@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/CSS/css - Flexbox.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "css - Flexbox"
+              "title": "TODO"
             }
           }
         ],
@@ -191,8 +191,12 @@
   },
   "active": "af22ccc78c371da9",
   "lastOpenFiles": [
-    "TODO.md",
+    "Fortnox/z_Attachments/crediflow-portal-example.mp4",
+    "Fortnox/z_Attachments/crediflow-portal-example.mp4_exiftool_tmp",
+    "z_Attachments/snap-finder-search-to-default-position.gif",
+    "z_Attachments/Screenshot 2026-01-20 at 10.55.13.png",
     "Coding/CSS/css - Flexbox.md",
+    "TODO.md",
     "Coding/Terminal/Syntax.md",
     "Coding/CSS",
     "Fortnox/Services/EDI/Edi service handoff.md",
@@ -205,7 +209,6 @@
     "Fortnox/z_Attachments/Screenshot 2023-02-27 at 16.22.06.png",
     "Fortnox/z_Attachments/Screenshot 2025-12-16 at 14.24.58.png",
     "Fortnox/z_Attachments/Screenshot 2025-12-16 at 14.22.51.png",
-    "Fortnox/z_Attachments/crediflow-portal-example.mp4",
     "Fortnox/z_Attachments/ .mp4",
     "Fortnox/F3/Translations in F3.md",
     "Fortnox/TODO.md",
@@ -216,8 +219,6 @@
     "Coding/GIT/Useful commands.md",
     "Coding/GIT",
     "Fortnox/z_Attachments/utskriftstjanst_settings.png",
-    "Fortnox/z_Attachments/utskriftstjanst.png",
-    "Fortnox/z_Attachments/steps to create a new service.png",
     "Fortnox/z_Attachments/JBehaves.pdf",
     "Fortnox/z_Attachments",
     "Fortnox/z_Attachments copy/JBehaves.pdf",
@@ -236,7 +237,6 @@
     "Coding/Mac/mac - utils.md",
     "Coding/Languages/Rust/Rust.md",
     "Coding/Languages/Rust/Rust firewall.md",
-    "Coding/Languages/PHP/Unable to load dynamic library.md",
     "Untitled.canvas"
   ]
 }
