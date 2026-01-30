@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Fortnox/Finance Services/Fakturaservice-help slack channel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Fakturaservice-help slack channel"
+            }
+          },
+          {
+            "id": "aa5576812bd19583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fortnox/Services/EDI/Edi service handoff.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Edi service handoff"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crediflow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +96,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,17 +205,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af22ccc78c371da9",
+  "active": "aa5576812bd19583",
   "lastOpenFiles": [
-    "Fortnox/z_Attachments/crediflow-portal-example.mp4",
+    "Fortnox/z_Attachments/correct-flow.png",
+    "Fortnox/Finance Services/Fakturaservice-help slack channel.md",
+    "Fortnox/z_Attachments/affected-invoice-flow.png",
+    "Fortnox/Services/EDI/Edi service handoff.md",
     "Fortnox/z_Attachments/crediflow-portal-example.mp4_exiftool_tmp",
+    "crediflow-portal-example.mp4_exiftool_tmp",
+    "crediflow-portal-example.mp4",
+    "TODO.md",
+    "Fortnox/z_Attachments/crediflow-portal-example.mp4",
     "z_Attachments/snap-finder-search-to-default-position.gif",
     "z_Attachments/Screenshot 2026-01-20 at 10.55.13.png",
     "Coding/CSS/css - Flexbox.md",
-    "TODO.md",
     "Coding/Terminal/Syntax.md",
     "Coding/CSS",
-    "Fortnox/Services/EDI/Edi service handoff.md",
     "Coding/Languages/PHP/PHP.md",
     "Fortnox/z_Attachments/Screenshot 2023-04-24 at 09.42.39.png",
     "Screen Recording 2024-09-03 at 10.06.19_a3de95b827371a33b58fab5d91683dbef112afcf71787f32fc25d50c3c58a21e.mp4",
@@ -218,12 +239,8 @@
     "Coding/Languages/PHP/composer.md",
     "Coding/GIT/Useful commands.md",
     "Coding/GIT",
-    "Fortnox/z_Attachments/utskriftstjanst_settings.png",
     "Fortnox/z_Attachments/JBehaves.pdf",
     "Fortnox/z_Attachments",
-    "Fortnox/z_Attachments copy/JBehaves.pdf",
-    "Fortnox/z_Attachments copy",
-    "z_Attachments copy/JBehaves.pdf",
     "Coding/Terminal/Concepts/CLI.md",
     "Coding/Terminal/Concepts/Bash.md",
     "Coding/Terminal/Concepts/Shell.md",
@@ -236,7 +253,6 @@
     "Coding/Mac/mac - config utils.md",
     "Coding/Mac/mac - utils.md",
     "Coding/Languages/Rust/Rust.md",
-    "Coding/Languages/Rust/Rust firewall.md",
     "Untitled.canvas"
   ]
 }
