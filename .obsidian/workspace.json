@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Mac/mac - utils.md",
+                "file": "Personal/z_mac-reset/Nuke protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mac - utils"
+              "title": "Nuke protocol"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "0205f7cbb526a978",
   "lastOpenFiles": [
+    "Personal/z_mac-reset/Reset MAC.md",
+    "Coding/Mac/mac - utils.md",
     "z_Attachments/snap-finder-search-to-default-position.gif",
     "Personal/Paperets de nadal.md",
     "Personal/Projects/SIE/DOCMAN/Queries.md",
@@ -189,7 +191,6 @@
     "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screenshot_2024-03-21_at_13.36.39.png",
     "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screenshot_2024-03-21_at_09.35.15.png",
     "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screenshot_2024-03-21_at_09.35.05.png",
-    "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screenshot_2024-02-28_at_10.40.19.png",
     "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screen_Recording_2024-08-05_at_16.18.20.mov",
     "notion/Online Courses/CSS for JavaScript Developers/Module 1 - Rendering Logic 1/Screen_Recording_2024-02-09_at_08.39.23.mov",
     "notion/Online Courses/Josh W Comeau Joy of React- Personal notes/Module 1 React Fundamentals 71ed585645214bd290aaea0016a19c76.md",
@@ -215,11 +216,9 @@
     "Personal/Nadal/Paperets de nadal.md",
     "Personal/compres.md",
     "Personal/Descomptes.md",
-    "Personal/z_mac-reset/Reset MAC.md",
     "Personal/z_mac-reset/Nuke protocol.md",
     "Personal/z_MAC/Reset MAC.md",
     "Personal/z_MAC/Nuke protocol.md",
-    "Coding/Mac/mac - utils.md",
     "Personal/Projects/SIE/Web/Backups.md",
     "Untitled.canvas"
   ]

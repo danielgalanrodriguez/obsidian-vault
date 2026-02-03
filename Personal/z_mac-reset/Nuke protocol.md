@@ -52,17 +52,24 @@
 
 # Apps
 - Install brave browser via brew
+	- https://formulae.brew.sh/cask/brave-browser#default
 - install arc browser via brew
+	- https://formulae.brew.sh/cask/arc#default
 - Install php with brew
 	- brew install php@8.2
 	- brew link --overwrite --force php@8.2
 - Install vscode via brew
+	- https://formulae.brew.sh/cask/visual-studio-code#default
 	- Sync data from github account
 - install The unarchiver via brew
+	- https://formulae.brew.sh/cask/the-unarchiver#default
 - Install clop via brew
+	- https://formulae.brew.sh/cask/clop#default
 	- set z_attachments default folder for auto optimiser
 - install Obsidian via brew
 - install bitwarden via brew
 - Install mini-calendar: [https://www.mini-cal.com/](https://www.mini-cal.com/)  (not in homebrew)
 - Install logi options+  via brew
 - install discord via brew
+- install beekeeper studio via homebrew
+	- https://formulae.brew.sh/cask/beekeeper-studio#default
