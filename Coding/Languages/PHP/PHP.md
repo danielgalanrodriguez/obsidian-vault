@@ -17,6 +17,7 @@ brew install php@8.4
 ```
 
 ```bash
+brew unlink php@8.4 # Only if you have a version already installed
 brew link --force --overwrite php@8.4
 ```
 

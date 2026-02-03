@@ -1,0 +1,5 @@
+- check scrum
+- aprendre mecanografia
+- llibre gdt david allen
+- toggl per a controlar el temps que estas en cada tasca 
+- calendly per a proposar horaris
