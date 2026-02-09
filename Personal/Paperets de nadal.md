@@ -6,6 +6,19 @@
 
  Philosophy In The Flesh Paperback – Big Book, 8 Oct. 1999
 https://www.amazon.es/dp/0465056741?tag=sketchplana0b-21&keywords=philosophy%20in%20the%20flesh&geniuslink=true
+- Geekstuff:
+	- [https://www.geeksoutfit.com/products/cpu-heart-t-shirt](https://www.geeksoutfit.com/products/cpu-heart-t-shirt)
+	- [https://www.geeksoutfit.com/products/sudo-linux-programming-command-nerd-t-shirt](https://www.geeksoutfit.com/products/sudo-linux-programming-command-nerd-t-shirt)
+	- [https://www.geeksoutfit.com/products/linux-just-sudo-it-t-shirt](https://www.geeksoutfit.com/products/linux-just-sudo-it-t-shirt)
+	- [https://www.geeksoutfit.com/products/cyberdyne-systems-skynet-t-shirt](https://www.geeksoutfit.com/products/cyberdyne-systems-skynet-t-shirt)
+	- [https://www.geeksoutfit.com/products/whatever-geek-t-shirt-1](https://www.geeksoutfit.com/products/whatever-geek-t-shirt-1)
+	- [https://www.geeksoutfit.com/products/funny-debugging-geek-t-shirt](https://www.geeksoutfit.com/products/funny-debugging-geek-t-shirt)
+	- [https://www.geeksoutfit.com/products/things-aren't-always-black-and-white-geek-t-shirt](https://www.geeksoutfit.com/products/things-aren't-always-black-and-white-geek-t-shirt)
+	- [https://www.geeksoutfit.com/products/robot-problems-geek-t-shirt](https://www.geeksoutfit.com/products/robot-problems-geek-t-shirt)
+	- [https://www.geeksoutfit.com/products/i-got-these-muscles-writing-code-coding-geek-t-shirt#1](https://www.geeksoutfit.com/products/i-got-these-muscles-writing-code-coding-geek-t-shirt#1)
+	- [https://www.geeksoutfit.com/products/life-the-universe-everything-t-shirt](https://www.geeksoutfit.com/products/life-the-universe-everything-t-shirt)
+	- [https://www.geeksoutfit.com/products/vintage-network-geek-t-shirt#1](https://www.geeksoutfit.com/products/vintage-network-geek-t-shirt#1)
+	- [https://www.geeksoutfit.com/products/i-hate-programming-geek-t-shirt](https://www.geeksoutfit.com/products/i-hate-programming-geek-t-shirt) 
 
 
 **Paperets 2023 Dani**

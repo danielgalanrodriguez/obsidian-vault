@@ -1,0 +1,3 @@
+- pantalla amb marc inclós:
+	- https://www.waveshare.com/esp32-s3-photopainter.htm?sku=32408
+	- src:https://www.reddit.com/r/Strava/comments/1qwgpv2/made_this_for_75_and_im_sharing_my_code_and_tools/
