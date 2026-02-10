@@ -36,3 +36,10 @@
 | besvarar       | contestar, responder                               |                                                                 |
 | hal (adj)      | resbaloso, escurridizo (golvet är halt)            |                                                                 |
 | åtagande       | compromiso                                         |                                                                 |
+| svaghet        | debilidad, punto debil                             |                                                                 |
+| obehörig       | no autorizado                                      |                                                                 |
+| behörig        | competente                                         |                                                                 |
+| fjärråtkomst   | accesso remoto                                     |                                                                 |
+| fjärran        | lejano, a mucha distancia                          |                                                                 |
+| åtkomst        | accesso                                            |                                                                 |
+| Undvika        | evitar                                             |                                                                 |
