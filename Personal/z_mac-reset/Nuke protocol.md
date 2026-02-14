@@ -67,9 +67,16 @@
 	- https://formulae.brew.sh/cask/clop#default
 	- set z_attachments default folder for auto optimiser
 - install Obsidian via brew
+	- https://formulae.brew.sh/cask/obsidian#default
+	- Fetch notes from github repo [obsidian-vault](https://github.com/danielgalanrodriguez/obsidian-vault)
 - install bitwarden via brew
+	- https://formulae.brew.sh/cask/bitwarden#default
 - Install mini-calendar: [https://www.mini-cal.com/](https://www.mini-cal.com/)  (not in homebrew)
 - Install logi options+  via brew
+	- https://formulae.brew.sh/cask/logi-options+#default
 - install discord via brew
-- install beekeeper studio via homebrew
+	- https://formulae.brew.sh/cask/discord#default
+- install beekeeper studio via brew
 	- https://formulae.brew.sh/cask/beekeeper-studio#default
+- install MacDroid via brew (like android file transfer)
+	- https://formulae.brew.sh/cask/macdroid#default
