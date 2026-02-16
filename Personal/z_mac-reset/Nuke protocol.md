@@ -80,3 +80,5 @@
 	- https://formulae.brew.sh/cask/beekeeper-studio#default
 - install MacDroid via brew (like android file transfer)
 	- https://formulae.brew.sh/cask/macdroid#default
+- Install Bruno http API client
+	- https://formulae.brew.sh/cask/bruno#default
