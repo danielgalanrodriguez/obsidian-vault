@@ -82,3 +82,9 @@
 	- https://formulae.brew.sh/cask/macdroid#default
 - Install Bruno http API client
 	- https://formulae.brew.sh/cask/bruno#default
+- Install spotify via brew
+	- https://www.spotify.com/
+	- https://formulae.brew.sh/cask/spotify#default
+- Install [BCML](https://github.com/zackelia/bclm?tab=readme-ov-file)
+	- `brew tap zackelia/formulae; brew install bclm`
+- 
