@@ -1,6 +1,8 @@
 {
   "showRibbon": true,
   "theme": "system",
-  "translucency": false,
-  "cssTheme": "Obsidianite"
+  "translucency": true,
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
 }
