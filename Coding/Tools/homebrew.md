@@ -10,3 +10,7 @@ Command at DEC-2025:
 ``` zsh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+
+Installation path: `/opt/homebrew`
+Binaries path: `/opt/homebrew/bin/`
