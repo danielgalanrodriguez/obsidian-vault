@@ -24,11 +24,12 @@ $$\text{Escape} + \text{CSI} + \text{Parameters} + \text{Final Character}$$
 
 Variables are defined in your script or shell configuration (`.bashrc`, `.zshrc`) and used with the `echo -e` command (the `-e` flag enables the interpretation of escape sequences).
 
-| Variable Example | Code | Parameters | Meaning |
-| :--- | :--- | :--- | :--- |
-| `RED_TEXT` | `\033[1;31m` | `1` (Bold) + `31` (Red Foreground) | Bold Red Text |
-| `BLUE_BG` | `\033[44m` | `44` (Blue Background) | Blue Background |
-| **`NC` (No Color)** | `\033[0m` | `0` (Reset) | **Crucial:** Resets all formatting to terminal defaults. |
+| Variable Example    | Code            | Parameters                                                  | Meaning                                                  |
+| :------------------ | :-------------- | :---------------------------------------------------------- | :------------------------------------------------------- |
+| `RED_TEXT`          | `\033[1;31m`    | `1` (Bold) + `31` (Red Foreground)                          | Bold Red Text                                            |
+| `BLUE_BG`           | `\033[44m`      | `44` (Blue Background)                                      | Blue Background                                          |
+| RED_TEXT_BLUE_BG    | `\033[1;31;44m` | `1` (Bold) + `31` (Red Foreground) + `44` (Blue Background) | Bold Red Text with a blue background                     |
+| **`NC` (No Color)** | `\033[0m`       | `0` (Reset)                                                 | **Crucial:** Resets all formatting to terminal defaults. |
 
 **Example Usage:**
 
