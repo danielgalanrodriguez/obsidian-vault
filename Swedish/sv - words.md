@@ -43,3 +43,4 @@
 | fjärran        | lejano, a mucha distancia                          |                                                                 |
 | åtkomst        | accesso                                            |                                                                 |
 | Undvika        | evitar                                             |                                                                 |
+| tillfälle      | oportunidad, ocasion                               |                                                                 |
