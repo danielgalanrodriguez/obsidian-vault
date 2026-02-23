@@ -6,6 +6,9 @@
 - [ ] Do I need a NAS ? Maybe its cool! https://youtu.be/wkZVrDaBzz0?list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx&t=463
       https://www.amazon.se/dp/B083ZJFMVQ?tag=fromsergio05-21&th=1&psc=1&geniuslink=true
 - [ ] Add code formatting to .sh files
+- [ ] https://syntax.fm/show/968/habits-and-changes-we-want-to-make-in-2026
+- [ ] https://syntax.fm/show/980/ai-coding-explained
+- [ ] https://syntax.fm/show/971/stackoverflow-and-firefox-are-dead
 
 
 
@@ -13,6 +16,6 @@
 #2 --> 0,29
 #3 --> 21,92 
 
-€ --> 6129,49 kr --> **18-02**
-$ --> 6163,24 kr --> **18-02**
+€ --> 6150,34 kr --> **23-02**
+$ --> 6173,82 kr --> **23-02**
 
