@@ -1,3 +1,9 @@
 - pantalla amb marc inclós:
 	- https://www.waveshare.com/esp32-s3-photopainter.htm?sku=32408
 	- src:https://www.reddit.com/r/Strava/comments/1qwgpv2/made_this_for_75_and_im_sharing_my_code_and_tools/
+- Mes pantalles:
+	- https://shop.boox.com/products/notemax
+	- https://www.almoproav.com/productdetails/PHILIP/25BDL4150I/00
+	- https://trmnl.com/
+- Article interessant sobre un tio que ha fet algo semblant
+	- https://hawksley.org/2026/02/17/timeframe.html?utm_source=cassidoo&utm_medium=email&utm_campaign=change-but-start-slowly-because-direction-is-more
