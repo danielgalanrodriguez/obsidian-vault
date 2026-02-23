@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "synta",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.526246038833425,
+  "scale": 1.3298312167806097,
   "close": false
 }

@@ -1,4 +1,4 @@
-
+[[Laravel]]
 # Routing
 - A route can return many different types
 	- A view (HTML Views - Traditional Web)

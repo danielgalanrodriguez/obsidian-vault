@@ -48,4 +48,4 @@ GROUP BY
 HAVING
     COUNT(DISTINCT u.sie_facility_id) >= 2;
 ```
-![[Screenshot 2025-11-20 at 00.07.03.png]]
+![[db-examples.png]]
