@@ -1,4 +1,3 @@
-
 # Q - Accounting method (kontant or fakturerings)
 1. How to check which method does the company have?
 2. Which one is easiest?
