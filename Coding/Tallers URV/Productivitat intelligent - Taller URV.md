@@ -1,3 +1,4 @@
+#alumni
 # Productivitat intelligent: mes impacte amb menys estrès
 
 Index
@@ -14,33 +15,42 @@ e-> expectatives
 c-> cost
 
 Juga amb aquest parametres per saber el valor de algo.
-![[Screenshot 2026-02-19 at 17.14.41.png]]
+![[alumni-calcul-valor.png]]
 
 ------
 Reflexiona sobre les taques que fas cada dia.
 Tenen valor?
+![[alumni-taula-clasificadora-tasques.png]]
+
 Tipus de tasques:
-- Tasca normal
+- Tasca valor
 - Tasca suport (necessaria per la tasca normal)
 	- Intentar eliminar o minimitzar l'impacte (optimitzar, automatitzar, delegar,eliminar?)
 - Tasca desperdici (no apporten valor)
+![[alumni-tipus-tasques.png]]
+
 
 
 Per identificar les tasques de valor, fes l'exercici de posarho en una factura i pensar si t'ho pagarien.
 Resultats d'un Estudi:
-![[Screenshot 2026-02-19 at 17.22.42.png]]
+![[alumni-resultat-estudi-tipus-tasques.png]]
 
 
 
 -------
-Distractors
+Distractors:
+Qualsevol element que desvia la nostra atenció durant una tasca. Pot ser intern (psicologic) o extern (físic).  
 
-Psicologics: preocupacions o coses que tens al cap que has de fer
+Psicològics: preocupacions o coses que tens al cap que has de fer
 solucio: apuntarho en un paper per a estar tranquils i poderho fer despres
 
 Fes-ho! Pren acció! No deixis que et consumeixi tot el dia! 
+![[alumni-distractors-psicologics.png]]
 
-Fisics: mail, whatsapps, sorolls ...
+
+
+Físics: mail, whatsapps, sorolls ...
+![[alumni-distractors-fisics.png]]
 
 --------- 
 
@@ -57,7 +67,7 @@ Book: El hombre en busca de sentido - Viktor frankl
 Reflexiona en lo important i no important
 
 Tecniques de planificacio 
-![[Screenshot 2026-02-19 at 17.51.03.png]]
+![[alumni-planificacio.png]]
 
 
 Llibres:
