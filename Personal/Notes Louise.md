@@ -87,3 +87,11 @@ finito tickets!!!!!, ara toca:
 
 Search for [utlands traktamente](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/traktamente/utlandstraktamente.4.2b543913a42158acf800016035.html) in google and go to the skatteverket site there you’ll see all the traktamente amounts in lots of countries. 
 Find the country you want and you’ll see the max amount without taxes.
+
+# Extra vat return due to losses
+You have 10k in tax refund in general. But you had with the last two years of your company a total of 230k in loss.
+The first 5 years you can deduct the loss as a tax cut of 30 % if you want to if you had income otherwise. 
+Since you had income from a employer I tried the company-loss tax cut and deducted 100k of that 230k. 
+Then you will receive a tac refund of 38k instead of 10k.
+Is that something you want to do? So you will still have 130k of a loss in your company that gets pushed forward to next year. 
+And if you have a profit then you can use that loss against the profit and pay less taxes.
