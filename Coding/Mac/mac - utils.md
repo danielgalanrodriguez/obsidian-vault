@@ -18,4 +18,4 @@ There are other folders you can remove as well.
 (Buho cleaner will help you a lot.)
 src: https://www.reddit.com/r/MacOS/comments/154rp99/how_to_do_i_clear_system_data_on_mac_os/
 
-![[Screenshot 2026-01-20 at 10.55.13.png]]
+![[mac-clean-system-data.png]]

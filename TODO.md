@@ -10,7 +10,13 @@
 - [ ] https://syntax.fm/show/980/ai-coding-explained
 - [ ] https://syntax.fm/show/971/stackoverflow-and-firefox-are-dead
 
+---
+#DnD_TODO
 
+- [ ]  Create a list of multiple spells with descriptions. The goal is to have a cheatsheet to be able to dynamically change them in the middle of the game.
+- [ ] -
+
+---
 
 #1 --> 8,24 (reference)
 #2 --> 0,29
