@@ -53,3 +53,15 @@ The most awesome keep-awake app. Amphetamine can keep your Mac, and optionally i
 
 brew:  only app store
 src: https://apps.apple.com/se/app/amphetamine/id937984704?mt=12
+
+# orbStack
+Faster Mac Docker replacement
+
+brew: https://formulae.brew.sh/cask/orbstack#default
+src: https://orbstack.dev/
+
+# colima
+CLI based open source Docker replacement
+
+brew: https://formulae.brew.sh/formula/colima#default
+src: https://github.com/abiosoft/colima/blob/main/README.md
