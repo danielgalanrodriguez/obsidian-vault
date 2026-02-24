@@ -1,7 +1,7 @@
 
 # Aladinia
 - 10€ de descompte
-  ![[Screenshot 2026-01-10 at 02.38.49.png]]
+  ![[descompte-aladinia.png]]
 
 # Mother earth 
 - 20% discount:

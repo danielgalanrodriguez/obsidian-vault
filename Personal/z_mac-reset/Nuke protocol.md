@@ -17,12 +17,12 @@
 	- ![[Screenshot 2026-01-02 at 18.02.30.png]]
 - Add hot corners:
 	- System Settings -> Desktop & Dock -> Hot Corners
-	- ![[Screenshot 2025-12-29 at 23.12.44.png]]
+	- ![[config-hot-corners.png]]
 - Set Desktop &  Dock settings: (dock to the left side)
 	- ![[Screenshot 2026-01-02 at 17.34.00.png]]
-	- ![[Screenshot 2025-12-29 at 23.37.01.png]]
+	- ![[config-desktop-dock-2.png]]
 - Set appearance settings:
-	- ![[Screenshot 2025-12-29 at 23.40.41.png]]
+	- ![[config-appearance.png]]
 - Set battery settings: System settings-> Battery
 	- Set low power mode
 	- Set -> Options...
