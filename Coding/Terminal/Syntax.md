@@ -7,15 +7,15 @@ Zsh uses the standard Bourne-style if/then/fi structure but offers powerful feat
 ## 1. Basic Structure
 
 The most important rule is that every if must end with a fi (if spelled backwards).
-
-    if [[ condition ]]; then
-        # code to run
-    elif [[ second_condition ]]; then
-        # code to run
-    else
-        # code to run
-    fi
-
+``` zsh
+if [[ condition ]]; then
+	# code to run
+elif [[ second_condition ]]; then
+	# code to run
+else
+	# code to run
+fi
+```
 ---
 
 ## 2. Comparison Types
@@ -61,16 +61,17 @@ Used inside `[[ ... ]]` to check the status of files or folders.
 ---
 ## 4. Example: Timestamp File Checker
 
-    # Check if a specific file exists before doing something
-    FILE="name_$(date +%s).txt"
+``` zsh
+# Check if a specific file exists before doing something
+FILE="name_$(date +%s).txt"
 
-    if [[ -f "$FILE" ]]; then
-        echo "Error: $FILE already exists."
-    else
-        touch "$FILE"
-        echo "Created: $FILE"
-    fi
-
+if [[ -f "$FILE" ]]; then
+	echo "Error: $FILE already exists."
+else
+	touch "$FILE"
+	echo "Created: $FILE"
+fi
+```
 
 # 🛠️ Zsh Functions: Syntax and Usage
 
@@ -80,11 +81,11 @@ Functions allow you to group commands, use logic, and accept arguments. They are
 ## 1. Defining a Function
 
 The standard way to write a function is:
-
-    function_name() {
-        # Your commands here
-    }
-
+``` zsh
+function_name() {
+	# Your commands here
+}
+```
 ---
 ## 2. Handling Arguments
 
@@ -101,29 +102,30 @@ Shell functions use numeric variables to represent inputs:
 
 Always define variables inside functions using the `local` keyword. This keeps your shell environment clean.
 
-    my_func() {
-        local my_var="I only exist inside this function"
-        echo $my_var
-    }
-
+``` zsh
+my_func() {
+	local my_var="I only exist inside this function"
+	echo $my_var
+}
+```
 ---
 ## 4. Real-World Example: Timestamp Creator
 
 This function creates a file with a timestamp. If you provide a name, it uses it; otherwise, it defaults to "log".
+``` zsh
+mktempfile() {
+	local name="${1:-log}"
+	local ts=$(date +%s)
+	local fname="${name}_${ts}.txt"
+	
+	touch "$fname"
+	echo "Created: $fname"
+}
 
-    mktempfile() {
-        local name="${1:-log}"
-        local ts=$(date +%s)
-        local fname="${name}_${ts}.txt"
-        
-        touch "$fname"
-        echo "Created: $fname"
-    }
-
-    # Usage:
-    # mktempfile data    -> creates data_1733659565.txt
-    # mktempfile         -> creates log_1733659565.txt
-
+# Usage:
+# mktempfile data    -> creates data_1733659565.txt
+# mktempfile         -> creates log_1733659565.txt
+```
 
 ## 5. ↩️ Return in Zsh Functions
 
@@ -136,15 +138,26 @@ The `return` keyword only sends back a status code (0-255).
 
 ###  Returning Data (The String) 
 To send text or data back to the caller, use `echo` inside the function and capture it with `$()`. 
-
-    get_name() {
-        echo "Fortnox-Project"
-    }
-    result=$(get_name)
-
+``` zsh
+get_name() {
+	echo "Fortnox-Project"
+}
+result=$(get_name)
+```
 ### Comparison Table 
 | Feature | `return` | `echo` + `$( )` | 
 | :--- | :--- | :--- | 
 | **Purpose** | Success/Failure signal | Passing actual data | 
 | **Data Type** | Integer (0-255) | String / Text | 
 | **Usage** | `if my_func; then` | `var=$(my_func)` |
+
+
+# 🔁 ZSH For-Loops
+
+## Loop through directories in current folder
+``` zsh
+
+for dir in */; do
+	echo "TESTING $dir"
+done
+```
