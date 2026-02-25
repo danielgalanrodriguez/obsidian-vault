@@ -84,4 +84,4 @@ ens hem quedat a la diapo:  'Dimensions del flow'
 
 
 
-https://rovira-my.sharepoint.com/personal/47813517-j_epp_urv_cat/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F47813517%2Dj%5Fepp%5Furv%5Fcat%2FDocuments%2FTCP%2FPresentacions%20formadors%20compet%C3%A8ncies%20curs%2025%2D26%2FPlanIficacio%CC%81%20y%20priorizacio%CC%81%20URV%2Epdf&parent=%2Fpersonal%2F47813517%2Dj%5Fepp%5Furv%5Fcat%2FDocuments%2FTCP%2FPresentacions%20formadors%20compet%C3%A8ncies%20curs%2025%2D26&ct=1771522064898&or=Teams%2DHL&ga=1&LOF=1
+![[PlanIficació y priorizació URV.pdf]]
