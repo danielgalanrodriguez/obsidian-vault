@@ -44,3 +44,4 @@
 | åtkomst        | accesso                                            |                                                                 |
 | Undvika        | evitar                                             |                                                                 |
 | tillfälle      | oportunidad, ocasion                               |                                                                 |
+| Överens        |                                                    |                                                                 |
