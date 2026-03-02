@@ -15,25 +15,25 @@ e-> expectatives
 c-> cost
 
 Juga amb aquest parametres per saber el valor de algo.
-![[alumni-calcul-valor.png]]
+![[alumni-calcul-valor.png|435]]
 
 ------
 Reflexiona sobre les taques que fas cada dia.
 Tenen valor?
-![[alumni-taula-clasificadora-tasques.png]]
+![[alumni-taula-clasificadora-tasques.png|472]]
 
 Tipus de tasques:
 - Tasca valor
 - Tasca suport (necessaria per la tasca normal)
 	- Intentar eliminar o minimitzar l'impacte (optimitzar, automatitzar, delegar,eliminar?)
 - Tasca desperdici (no apporten valor)
-![[alumni-tipus-tasques.png]]
+![[alumni-tipus-tasques.png|437]]
 
 
 
 Per identificar les tasques de valor, fes l'exercici de posarho en una factura i pensar si t'ho pagarien.
 Resultats d'un Estudi:
-![[alumni-resultat-estudi-tipus-tasques.png]]
+![[alumni-resultat-estudi-tipus-tasques.png|266]]
 
 
 
@@ -45,12 +45,12 @@ Psicològics: preocupacions o coses que tens al cap que has de fer
 solucio: apuntarho en un paper per a estar tranquils i poderho fer despres
 
 Fes-ho! Pren acció! No deixis que et consumeixi tot el dia! 
-![[alumni-distractors-psicologics.png]]
+![[alumni-distractors-psicologics.png|359]]
 
 
 
 Físics: mail, whatsapps, sorolls ...
-![[alumni-distractors-fisics.png]]
+![[alumni-distractors-fisics.png|374]]
 
 --------- 
 
@@ -67,7 +67,7 @@ Book: El hombre en busca de sentido - Viktor frankl
 Reflexiona en lo important i no important
 
 Tecniques de planificacio 
-![[alumni-planificacio.png]]
+![[alumni-planificacio.png|417]]
 
 
 Llibres:
