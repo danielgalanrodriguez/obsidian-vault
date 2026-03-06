@@ -1,6 +1,7 @@
 
 Something veery confusing. But lets brake it down
-Claude courses: https://roadmap.sh/claude-code
+Claude courses: https://anthropic.skilljar.com/
+Claude roadmap: https://roadmap.sh/claude-code
 # LLM
 [[Large Language model]]
 

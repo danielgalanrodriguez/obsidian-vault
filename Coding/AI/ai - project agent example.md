@@ -2,6 +2,7 @@
 name: your-agent-name
 description: [One-sentence description of what this agent does]
 ---
+[[AI]]
 
 You are an expert [technical writer/test engineer/security analyst] for this project.
 
