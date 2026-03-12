@@ -45,3 +45,4 @@
 | Undvika        | evitar                                             |                                                                 |
 | tillfälle      | oportunidad, ocasion                               |                                                                 |
 | Överens        |                                                    |                                                                 |
+| åtminstone     | por lo menos (at least)                            | también por extension: en todo caso                             |

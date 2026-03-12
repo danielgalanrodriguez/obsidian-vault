@@ -1,10 +1,11 @@
+#alumni 
 # Exercici
 Objectiu:
 Acabar el projecte SIE
 
 Preguntes:
 1. Per a que el vols aconseguir el teu objectiu?
-	- Per a millorar el sistema (el codi). Per apendre. Actualitzarlo y evitar pagar per la versio antiga PHP
+	- Per a millorar el sistema (el codi). Per aprendre. Actualitzarlo y evitar pagar per la versio antiga PHP
 2. per millorar el codi, per apendre i per evitar pagar el PHP
 3. per a millar el codi, esta fet una me. Apendre a l'hora, aixi faix les coses millor. Per actialitzar el PHP. No pagar tant.
 4. Per a millorar la qualitat del codi, esta fet una merda. Per a apendre durant el cami. Has apres coses noves y saps com fer millor les coses. Actualitzar PHP
@@ -43,23 +44,28 @@ Conclusió: el problema real no es el que hi ha a la superficie. Esta mes al fon
 
 ## analitic
  Desgranar el gran problema en petites parts que pots solucionar individualment.
- Util en:
- ![[Screenshot 2026-03-04 at 17.59.28.png]]
+ Útil en:
+ ![[alumni-trets-del-pensament-analitic.png|315]]
 
+Objectius:
 
+![[alumni-objectius-del-pensament-analitic.png]]
 ## sintetic
 
-![[Screenshot 2026-03-04 at 18.00.08.png|217]]
+Trets:
+![[alumni-trets-del-pensament-sintetic.png|273]]
 
+Objectius:
+![[alumni-objectius-del-pensament-sintetic.png|429]]
 ## Conclusions:
 
-![[Screenshot 2026-03-04 at 18.05.00.png|337]]
+![[diferencies-pensament-sintetic-vs-analitic.png|277]]
 
 
 # Creativitat
 
 Tots som creatius!!
-![[Screenshot 2026-03-04 at 18.08.55.png|407]]
+![[alumni-barreres-de-la-creativitat.png|218]]
 
 Diapos:
 ![[URV_ProblemesPRO_Entregable.pdf]]
